@@ -43,19 +43,16 @@ def check_for_essid(essid, lst):
 
 # Basic user interface header
 print(r"""
----
-
-|  __ \              | |
-| |) | _   _  | |   ___
-|  / __| | | |/ | ' \ / _ \
-| |   _ \ || | (| | | | () |
-||   |/_, |_|| ||_/
-/ |
-|/""")
+  _____   _______     _______ _    _  ____  
+ |  __ \ / ____\ \   / / ____| |  | |/ __ \ 
+ | |__) | (___  \ \_/ / |    | |__| | |  | |
+ |  ___/ \___ \  \   /| |    |  __  | |  | |
+ | |     ____) |  | | | |____| |  | | |__| |
+ |_|    |_____/   |_|  \_____|_|  |_|\____/ 
+""")
 print("\n****************************************************************")
-print("\n* Copyright of David Bombal, 2021                              *")
-print("\n* https://www.davidbombal.com                                  *")
-print("\n* https://www.youtube.com/davidbombal                          *")
+print("\n* Copyright of Gregoire Legrand, 2025                          *")
+print("\n* https://github.com/psycho237-prog                            *")
 print("\n****************************************************************")
 
 
